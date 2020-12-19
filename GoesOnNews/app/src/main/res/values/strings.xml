@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Goes On News</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="newsimage">newsimage</string>
+    <string name="published">published</string>
+    <string name="konten">konten</string>
+    <string name="author">author</string>
+</resources>
